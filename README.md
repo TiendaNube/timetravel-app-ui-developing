@@ -1,10 +1,12 @@
-![uideveloper](https://user-images.githubusercontent.com/14277806/141522969-4dbebbdb-4e78-407a-b88e-f40558f68bb3.png)
+<img width="899" alt="uideveloper" src="https://user-images.githubusercontent.com/14277806/141531708-229f496b-e4da-463d-b0bf-335439d1c83c.png">
+
+
 
 Estamos muito felizes por você querer fazer parte da Nuvemshop / Tiendanube 🎉
 
-Este é um pequeno teste para entendermos sobre seu processo de pensamento, como você estrutura seu trabalho e como você maximiza seu tempo e habilidades. 
+Este é um pequeno teste para entendermos sobre seu **processo de pensamento**, como você **estrutura seu trabalho** e como você **maximiza seu tempo e habilidades**. 
 
-# A tarefa: Desenvolver o nosso aplicativo de viagem no tempo.
+# Say hello to Time travel app 👋
 
 Já se perguntou como era o mundo há 200 anos? que tal 2.000? Que tal 20.000? 
 
@@ -21,20 +23,20 @@ O design do aplicativo foi atualizado e o serviço já existe. Agora precisamos 
 2. O design system está disponível somente no figma, então você precisará lidar com reutilização de componentes;
 3. Temos a liberdade de utilizar ReactJS (Gatsby/NextJS) ou mesmo podemos utilizar Vanilla JS 👍;
 4. O nosso CMS trás parte do conteúdo da página através de uma API;
-5. Keep it simple!
+5. Keep it simple 🎯
 
 
 # Entregáveis
 
-- Gostaríamos de ver um protótipo online. Você pode hospedar em algum host gratuito como [Heroku](https://heroku.com) ou [Vercel](https://vercel.com/);
+- Se poss'ivel, gostaríamos de ver um protótipo online. Você pode hospedar em algum host gratuito como [Heroku](https://heroku.com) ou [Vercel](https://vercel.com/);
 - Gostaríamos de ter acesso ao repositório Git que você utilizou.
 
 
 # Critérios de avaliação
 
-- Qualidade na execução (você não precisa desenvolver testes);
-- Capacidade de popular uma página de conteúdo com dados vindos de API;
-- Capacidade de simplificar uma solução. `A simplicidade é o último grau da sofisticação`
+- Qualidade na execução (você não precisa desenvolver testes) 💪 🧠;
+- Capacidade de popular uma página de conteúdo com dados vindos de API 📄;
+- Capacidade de simplificar uma solução. `A simplicidade é o último grau da sofisticação`🙌
 
 
 Divirta-se, queremos você no time ❤️ 
