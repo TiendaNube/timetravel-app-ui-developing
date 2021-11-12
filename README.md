@@ -1,43 +1,86 @@
-# UI Developer - Time Travel App
+![uideveloper](https://user-images.githubusercontent.com/14277806/141522969-4dbebbdb-4e78-407a-b88e-f40558f68bb3.png)
 
-We are super happy that you want to be part of our team at Nuvemshop / @Tiendanube!
-This is a short test to learn about your thinking process, how you structure your work and how you maximize your time and skills.
+Estamos muito felizes por você querer fazer parte da Nuvemshop / Tiendanube 🎉
 
-# The task
-## To develop time travel app.
+Este é um pequeno teste para entendermos sobre seu processo de pensamento, como você estrutura seu trabalho e como você maximiza seu tempo e habilidades. 
 
-Ever wondered how the world was 200 years ago? what about 2.000? What about 20.000?
-Now people can travel in time and see it for themselves. We invented technology that allows you to travel to any year you want.
-The app and service already exist, but because of the lack of a good UX we had several incidents.
+# A tarefa: Desenvolver o nosso aplicativo de viagem no tempo.
 
+Já se perguntou como era o mundo há 200 anos? que tal 2.000? Que tal 20.000? 
 
-## Now you need to solve at least one of the following problems:
-
-1. People are traveling back and talking to themselves creating a time-space paradox. We need to find a way of avoiding this.
-2. People are traveling to different times in their regular clothes and driving too much attention to themselves in some periods of time. This caused big troubles and some of our users were injured - which got us pretty bad media coverage. How can we make sure they get there with appropriate clothes?
+Agora as pessoas podem viajar no tempo e ver por si mesmas. Nós inventamos uma tecnologia (Fictícia por enquanto 🤷 ) que permite que você viaje para qualquer ano que desejar 😱 😱 😱 😱 😱.
 
 
-## Tips!
-# The solution can be HUGE and we need to develop and ship this as fast as we can.
+## Agora você precisa resolver o seguinte problema:
 
-Focus your efforts just on the important stuff that could solve the problem and cut scope #MVP!
+O design do aplicativo foi atualizado e o serviço já existe. Agora precisamos aplicar a UI em duas telas do nosso Web App.
 
-It's important you present only the flows that solve the problems we mentioned before. The other stuff (like a login) we don’t need it here.
-Remember that the main task still is time travel and this should be considered in your design.
+### Detalhes de implementação
 
-Don’t forget about mobile design principles.
-
-# Deliverables
-
-The designed project has to be presented in 6 slides or less using Google Slides, explaining your decisions and showing the product
-
-The solution needs to be designed for mobile and remember that the idea is to incentivize users to travel in time, so be creative and also don’t forget that: the product has to be simple and easy to use.
-
-**Last, but not least: this product also needs to follow the Tiendanube visual identity.**
-
-# Evaluating criteria
-
-Innovation, solution quality, thinking process and concept presentation. We want to see how you think, not just the awesomeness of your designs.
+1. O produto precisa ser 100% Web e Mobile Only 📱 ❤️;
+2. O design system está disponível somente no figma, então você precisará lidar com reutilização de componentes;
+3. Temos a liberdade de utilizar ReactJS (Gatsby/NextJS) ou mesmo podemos utilizar Vanilla JS 👍;
+4. O nosso CMS trás parte do conteúdo da página através de uma API;
+5. Keep it simple!
 
 
-Have fun, we want you on the team!
+# Entregáveis
+
+- Gostaríamos de ver um protótipo online. Você pode hospedar em algum host gratuito como [Heroku](https://heroku.com) ou [Vercel](https://vercel.com/);
+- Gostaríamos de ter acesso ao repositório Git que você utilizou.
+
+
+# Critérios de avaliação
+
+- Qualidade na execução (você não precisa desenvolver testes);
+- Capacidade de popular uma página de conteúdo com dados vindos de API;
+- Capacidade de simplificar uma solução. `A simplicidade é o último grau da sofisticação`
+
+
+Divirta-se, queremos você no time ❤️ 
+
+
+# Recusos técnicos
+
+## UI
+- [Link para telas](https://www.figma.com/file/0RVWcfnRct81SW6RsPrWcC/UI-Development-test?node-id=0%3A1)
+- [Link para protótipo navegável](https://www.figma.com/proto/0RVWcfnRct81SW6RsPrWcC/UI-Development-test?page-id=0%3A1&node-id=18%3A6644&viewport=241%2C48%2C0.24&scaling=scale-down&starting-point-node-id=18%3A6644&show-proto-sidebar=1)
+
+
+## API
+
+[Link para API](https://uideveloper-api.herokuapp.com/api/data)
+
+### Uma requisição get retornará esse esquema de dados:
+```
+{
+  "available_places": [
+    {
+      "place": "Washington, D.C. - EUA",
+      "img": "//d2r9epyceweg5n.cloudfront.net/assets/blog_pt/IhaveadreamMarines.jpeg",
+      "date": "1963-09-28T00:00:00.000Z",
+      "event_name": "Luther King speech",
+      "likes": "1k"
+    }
+    ...
+  ],
+  "editors_pick": [
+    {
+      "title": "A day in the Jurassic",
+      "content": "The Jurassic is a geologic period and stratigraphic system that spanned from the end of the Triassic Period 201.3 million years ago (Mya) to the beginning of the Cretaceous Period, approximately 145 ...",
+      "img": "//d2r9epyceweg5n.cloudfront.net/assets/blog_pt/i7524.webp"
+    }
+  ],
+  "travellers": [
+    {
+      "name": "SanchezRick",
+      "img": "//d2r9epyceweg5n.cloudfront.net/assets/blog_pt/Rick_Sanchez.png"
+    },
+    {
+      "name": "MortySmith",
+      "img": "//d2r9epyceweg5n.cloudfront.net/assets/blog_pt/Morty501.png"
+    }
+  ]
+}
+```
+
