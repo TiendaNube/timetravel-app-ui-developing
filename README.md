@@ -23,8 +23,6 @@ O design do aplicativo foi atualizado e o serviço já existe. Agora precisamos 
 2. O design system está disponível somente no figma, então você precisará lidar com reutilização de componentes;
 3. Temos a liberdade de utilizar ReactJS (Gatsby/NextJS) ou mesmo podemos utilizar Vanilla JS 👍;
 4. O nosso CMS trás parte do conteúdo da página através de uma API;
-5. Keep it simple 🎯
-
 
 # Entregáveis
 
