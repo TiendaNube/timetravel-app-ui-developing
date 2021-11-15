@@ -19,7 +19,7 @@ O design do aplicativo foi atualizado e o serviço já existe. Agora precisamos 
 
 ### Detalhes de implementação
 
-1. O produto precisa ser 100% Web e Mobile Only 📱 ❤️;
+1. A tela precisa é Mobile Only 📱 ❤️;
 2. O design system está disponível somente no figma, então você precisará lidar com reutilização de componentes;
 
 # Entregáveis
