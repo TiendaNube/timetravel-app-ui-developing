@@ -27,7 +27,7 @@ O design do aplicativo foi atualizado e o serviço já existe. Agora precisamos 
 A solução deverá ser entregue como uma página `html` e você deve nos enviar por e-mail.
 
 - Você pode utilizar `sass` ou mesmo `post css`;
-- Caso utiize `sass`, não se esqueça incluí-los, além do `css`. 
+- Caso utiize `sass`, não se esqueça de incluir os arquivos de build (webpack, sass, gulp e etc). 
 
 
 # Critérios de avaliação
