@@ -1,46 +1,45 @@
 <img width="899" alt="uideveloper" src="https://user-images.githubusercontent.com/14277806/141531708-229f496b-e4da-463d-b0bf-335439d1c83c.png">
 
 
+We are very happy that you want to be part of Nuvemshop / Tiendanube 🎉 
 
-Estamos muito felizes por você querer fazer parte da Nuvemshop / Tiendanube 🎉
-
-Este é um pequeno teste para entendermos sobre seu **processo de pensamento**, como você **estrutura seu trabalho** e como você **maximiza seu tempo e habilidades**. 
+This is a short test to understand your **thought process**, how you structure your work and **maximize your time and skills**.
 
 # Say hello to Time travel app 👋
 
-Já se perguntou como era o mundo há 200 anos? que tal 2.000? Que tal 20.000? 
+Ever wondered how the world was 200 years ago? What about 2.000? What about 20.000? 
 
-Agora as pessoas podem viajar no tempo e ver por si mesmas. Nós inventamos uma tecnologia (Fictícia por enquanto 🤷 ) que permite que você viaje para qualquer ano que desejar 😱 😱 😱 😱 😱.
-
-
-## Agora você precisa resolver o seguinte problema:
-
-O design do aplicativo foi atualizado e o serviço já existe. Agora precisamos aplicar a UI de uma das telas do nosso Web App.
-
-### Detalhes de implementação
-
-1. A tela precisa é Mobile Only 📱 ❤️;
-2. O design system está disponível somente no figma, então você precisará lidar com reutilização de componentes;
-
-# Entregáveis
-
-A solução deverá ser entregue como uma página `html` e você deve nos enviar por e-mail.
-
-- Você pode utilizar `sass` ou mesmo `post css`;
-- Caso utiize `sass`, não se esqueça de incluir os arquivos de build (webpack, sass, gulp e etc). 
+Now people can travel in time and see it for themselves. We invented technology that allows you to travel to any year you want 😱 😱 😱 😱 😱. 
 
 
-# Critérios de avaliação
+## Now you need to solve the following problem:
 
-- Qualidade na execução 💪 🧠;
-- Conhecimentos sólidos em HTML x CSS;
-- Capacidade de simplificação. `A simplicidade é o último grau da sofisticação`🙌
+The app design has been updated and the service already exists. Now we need to apply the UI of one of the screens of our Web App.
+
+### Implementation details
+
+1. The screen is Mobile Only 📱 ❤️;
+2. The design system is only available in figma, so you'll need to deal with component reuse;
+
+# Deliverables
+
+The solution should be delivered as an `html` page and you should email it to us.
+
+- You can use `sass` or even `post css`;
+- If you use, don't forget to include the build files (webpack, sass, gulp and etc). 
 
 
-Divirta-se, queremos você no time ❤️ 
+# Criteria
+
+- Quality in execution 💪 🧠;
+- Solid knowledge of HTML vs CSS;
+- Ability to simplify. `Simplicity is the ultimate level of sophistication`🙌
 
 
-# Recusos técnicos
+Have fun, we want you on the team ❤️ 
+
+
+# Technical assets
 
 ## UI
-- [Link para tela (App Success)](https://www.figma.com/file/0RVWcfnRct81SW6RsPrWcC/?node-id=60%3A6449)
+- [Link to screen (App Success)](https://www.figma.com/file/0RVWcfnRct81SW6RsPrWcC/?node-id=60%3A6449)
